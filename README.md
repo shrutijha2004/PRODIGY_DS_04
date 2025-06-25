@@ -37,7 +37,7 @@ The goal of this project is to:
    
 -Removed duplicate rows
 
-- Identified null tweets
+-Identified null tweets
   
 -Ensured correct data types
 
