@@ -36,24 +36,31 @@ The goal of this project is to:
 1. DATA CLEANING
    
 -Removed duplicate rows
+
 - Identified null tweets
+  
 -Ensured correct data types
 
 2. SENTIMENT DISTRIBUTION
    
 -Counted and visualized sentiment labels
+
 -Created bar plots and heatmaps
+
 -Grouped sentiment by entity (brand/topic)
 
 3. SAMPLE TWEET EXTRACTION
 
 -Printed top 5 tweets for Positive and Negative sentiments
+
 -Observed patterns in language and tone
 
 4. WORD CLOUD GENERATION
 
 -Generated one word cloud per sentiment type
+
 -Removed common stopwords like co, RT, amp, etc.
+
 -Used lowercase normalization and token merging
 
 ## 📊 Visualizations
